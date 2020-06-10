@@ -20,7 +20,7 @@ namespace _1635337_first_loop_priject
         private void BtnLogin_Click(object sender, EventArgs e)
         {
             string username = "Mo";
-            string mypassword = "12345";
+            string password = "12345";
 
             int attempt = 1;
             int maxattempts = 3;
